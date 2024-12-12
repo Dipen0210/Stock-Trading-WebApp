@@ -57,15 +57,15 @@ A fully functional stock trading web application with features like user authent
 Home:
 ![Screenshot 2024-12-07 173906](https://github.com/user-attachments/assets/0ba7b38b-4275-40db-a146-63cf3841889d)
 
-![Screenshot 2024-12-08 143935](https://github.com/user-attachments/assets/a503dab0-7cdc-4842-92be-fac4307a4ba9)
-
-![Screenshot 2024-12-07 174320](https://github.com/user-attachments/assets/067281c5-1d7d-48d5-abb6-debabc5917d4)
-
-![Screenshot 2024-12-07 174119](https://github.com/user-attachments/assets/27157659-d7d9-4cda-85e0-c626fed40238)
-
+Register Page:
 ![Screenshot 2024-12-07 174005](https://github.com/user-attachments/assets/0a3c4b77-1234-484c-b92c-2bce20d73724)
 
+Login Page: 
 ![Screenshot 2024-12-07 173936](https://github.com/user-attachments/assets/8923861f-115e-4e9d-a79a-f32ae24d7c09)
+
+News page:
+![Screenshot 2024-12-07 174119](https://github.com/user-attachments/assets/27157659-d7d9-4cda-85e0-c626fed40238)
+
 
 ![Screenshot 2024-12-07 173906](https://github.com/user-attachments/assets/c6aa0cb8-798f-478c-96e4-fd200a03de0c)
 
@@ -77,8 +77,13 @@ Home:
 
 ![Screenshot 2024-12-08 144149](https://github.com/user-attachments/assets/57bc88c2-7233-40a6-a6c4-edc162d8f9cf)
 
+![Screenshot 2024-12-08 143935](https://github.com/user-attachments/assets/a503dab0-7cdc-4842-92be-fac4307a4ba9)
 ![Screenshot 2024-12-08 144138](https://github.com/user-attachments/assets/4cff6488-f8f2-4337-b11b-5c0b217887a8)
 
 ![Screenshot 2024-12-08 144121](https://github.com/user-attachments/assets/761841ef-7200-4351-8402-10517962b572)
+
 ![Screenshot 2024-12-08 144107](https://github.com/user-attachments/assets/24ea366b-430e-4f96-a685-1745c812a3a2)
+
 ![Screenshot 2024-12-08 144051](https://github.com/user-attachments/assets/1bdaecfa-a9c2-4dd2-ab84-9b8e3fac8317)
+
+![Screenshot 2024-12-07 174320](https://github.com/user-attachments/assets/067281c5-1d7d-48d5-abb6-debabc5917d4)
