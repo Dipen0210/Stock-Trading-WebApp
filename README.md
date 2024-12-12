@@ -66,14 +66,14 @@ Login Page:
 News page:
 ![Screenshot 2024-12-07 174119](https://github.com/user-attachments/assets/27157659-d7d9-4cda-85e0-c626fed40238)
 
+Porfolio page:
+![Screenshot 2024-12-10 085645](https://github.com/user-attachments/assets/fdeee6d9-7362-40df-baf6-078893e2214c)
 
-![Screenshot 2024-12-07 173906](https://github.com/user-attachments/assets/c6aa0cb8-798f-478c-96e4-fd200a03de0c)
-
+Buy stocks:
 ![Screenshot 2024-12-10 090126](https://github.com/user-attachments/assets/4a26b51f-5e17-4781-9c69-a5c3c82c1232)
 
+Sell Stocks:
 ![Screenshot 2024-12-10 090109](https://github.com/user-attachments/assets/4ef522aa-6b4e-4d0a-869b-35cfbf24db52)
-
-![Screenshot 2024-12-10 085645](https://github.com/user-attachments/assets/fdeee6d9-7362-40df-baf6-078893e2214c)
 
 ![Screenshot 2024-12-08 144149](https://github.com/user-attachments/assets/57bc88c2-7233-40a6-a6c4-edc162d8f9cf)
 
