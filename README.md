@@ -69,21 +69,25 @@ News page:
 Porfolio page:
 ![Screenshot 2024-12-10 085645](https://github.com/user-attachments/assets/fdeee6d9-7362-40df-baf6-078893e2214c)
 
-Buy stocks:
-![Screenshot 2024-12-10 090126](https://github.com/user-attachments/assets/4a26b51f-5e17-4781-9c69-a5c3c82c1232)
-
-Sell Stocks:
+Buy Stocks:
 ![Screenshot 2024-12-10 090109](https://github.com/user-attachments/assets/4ef522aa-6b4e-4d0a-869b-35cfbf24db52)
 
-![Screenshot 2024-12-08 144149](https://github.com/user-attachments/assets/57bc88c2-7233-40a6-a6c4-edc162d8f9cf)
+Sell stocks:
+![Screenshot 2024-12-10 090126](https://github.com/user-attachments/assets/4a26b51f-5e17-4781-9c69-a5c3c82c1232)
 
+Daily stock view:
 ![Screenshot 2024-12-08 143935](https://github.com/user-attachments/assets/a503dab0-7cdc-4842-92be-fac4307a4ba9)
-![Screenshot 2024-12-08 144138](https://github.com/user-attachments/assets/4cff6488-f8f2-4337-b11b-5c0b217887a8)
 
-![Screenshot 2024-12-08 144121](https://github.com/user-attachments/assets/761841ef-7200-4351-8402-10517962b572)
-
+Weekly stock view:
 ![Screenshot 2024-12-08 144107](https://github.com/user-attachments/assets/24ea366b-430e-4f96-a685-1745c812a3a2)
 
+Monthly stock view:
+![Screenshot 2024-12-08 144121](https://github.com/user-attachments/assets/761841ef-7200-4351-8402-10517962b572)
+
+Yearly Stock view:
+![Screenshot 2024-12-08 144138](https://github.com/user-attachments/assets/4cff6488-f8f2-4337-b11b-5c0b217887a8)
+
+MongoDB object structure:
 ![Screenshot 2024-12-08 144051](https://github.com/user-attachments/assets/1bdaecfa-a9c2-4dd2-ab84-9b8e3fac8317)
 
 ![Screenshot 2024-12-07 174320](https://github.com/user-attachments/assets/067281c5-1d7d-48d5-abb6-debabc5917d4)
