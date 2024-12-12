@@ -63,11 +63,11 @@ Register Page:
 Login Page: 
 ![Screenshot 2024-12-07 173936](https://github.com/user-attachments/assets/8923861f-115e-4e9d-a79a-f32ae24d7c09)
 
-News page:
-![Screenshot 2024-12-07 174119](https://github.com/user-attachments/assets/27157659-d7d9-4cda-85e0-c626fed40238)
-
 Porfolio page:
 ![Screenshot 2024-12-10 085645](https://github.com/user-attachments/assets/fdeee6d9-7362-40df-baf6-078893e2214c)
+
+News page:
+![Screenshot 2024-12-07 174119](https://github.com/user-attachments/assets/27157659-d7d9-4cda-85e0-c626fed40238)
 
 Buy Stocks:
 ![Screenshot 2024-12-10 090109](https://github.com/user-attachments/assets/4ef522aa-6b4e-4d0a-869b-35cfbf24db52)
@@ -87,7 +87,8 @@ Monthly stock view:
 Yearly Stock view:
 ![Screenshot 2024-12-08 144138](https://github.com/user-attachments/assets/4cff6488-f8f2-4337-b11b-5c0b217887a8)
 
-MongoDB object structure:
+Technical Analysis of a stock:
 ![Screenshot 2024-12-08 144051](https://github.com/user-attachments/assets/1bdaecfa-a9c2-4dd2-ab84-9b8e3fac8317)
 
+MongoDB object structure:
 ![Screenshot 2024-12-07 174320](https://github.com/user-attachments/assets/067281c5-1d7d-48d5-abb6-debabc5917d4)
