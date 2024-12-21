@@ -68,6 +68,7 @@ A fully functional stock trading web application with features like user authent
 - mongodb  
 - mongoose  
 - react-router-dom
+- nodemon
 
 
 Home:
