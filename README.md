@@ -41,18 +41,34 @@ A fully functional stock trading web application with features like user authent
 
 - MongoDB Atlas
 
-**Dependencies**:
-- axios
-- bcrypt
-- bcryptjs
+## Frontend Dependencies
+- @heroicons/react  
+- @testing-library/jest-dom  
+- @testing-library/react  
+- @testing-library/user-event  
+- axios  
+- react  
+- react-dom  
+- react-modal  
+- react-router-dom  
+- react-scripts  
+- recharts  
+- technicalindicators  
+- web-vitals  
 
-- cors
-- dotenv
-- express
-- jsonwebtoken
-- mongodb
-- mongoose
-- body-parser
+## Backend Dependencies
+- axios  
+- bcrypt  
+- bcryptjs  
+- body-parser  
+- cors  
+- dotenv  
+- express  
+- jsonwebtoken  
+- mongodb  
+- mongoose  
+- react-router-dom
+
 
 Home:
 ![Screenshot 2024-12-07 173906](https://github.com/user-attachments/assets/0ba7b38b-4275-40db-a146-63cf3841889d)
